@@ -73,7 +73,7 @@ def view_scoreboard():
 
 
 # Main menu
-windo1 = tk.Tk()
+window1 = tk.Tk()
 window1.title("Quiz App")
 
 tk.Label(window1, text="Welcome to the Quiz!", font=("Arial", 16)).pack(pady=10)
